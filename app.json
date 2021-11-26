@@ -25,6 +25,14 @@
         "backgroundColor": "#FFFFFF"
       }
     },
+    "dependencies": {
+      "react": "16.8.3",
+      "react-native": "0.59.1",
+      "react-native-sqlite-storage": "^3.3.10",
+      "react-navigation": "^3.11."
+      
+      
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
